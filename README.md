@@ -10,7 +10,7 @@
 <br>⚡ Fun fact I have been a developer long enough to have used every version of Visual Studio from 2003 through 2026 and sitecore 6.5 through 10.4.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imnaveenkumarsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumarsingh@live.com) 
 
 # 💻 Tech Stack:
